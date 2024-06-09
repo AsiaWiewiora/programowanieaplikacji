@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="./css/style.css">
+<script src="./js/validation.js"></script>
+<title>Bucior</title>
+</head>
+<body>
+  <header>
+    <div class="logo"><img src="./images/logo.png" alt="logo"></div>
+    <div class="hamburger">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+    </div>
+    <nav class="nav-bar">
+        <ul>
+            <li><a href="index.html" >Główna</a><i></i></li>
+            <li><a href="news.html" >Nowości</a><i></i></li>
+            <li><a href="contact.html" class="active" >Kontakt</a><i></i></li>
+        </ul>
+    </nav>
+  </header>
+
+  <!-- contact section starts -->
+
+  <section class="contact" id="contact">
+    <h1 class="center-header-big">Skontaktuj się z nami</h1>
+    <div class="row">
+        <div class="image">
+            <img class="kon" src="images/kontakt.jpg" alt="kontakt">
+        </div>
+        <form id="helpForm" action="/" method="post">
+            <h3>Potrzebujesz pomocy?</h3>
+            <div class="inputBox">
+                <input type="text" id="name" name="name" placeholder="Imię">
+                <input type="text" id="email" name="email" placeholder="Email">
+            </div>
+            <div class="inputBox">
+                <input type="number" id="phone" name="phone" placeholder="Numer telefonu">
+                <input type="text" id="subject" name="subject" placeholder="Temat">
+            </div>
+            <textarea id="message" name="message" placeholder="Wiadomość" cols="30" rows="10"></textarea>
+            <div id="formErrorMessage" class="error-message" style="display: none;"></div>
+            <input type="submit" value="Wyślij" class="btn-submit">
+            <div id="successMessage" class="success-message"></div>
+        </form>
+    </div>
+</section>
+<!-- end -->
+
+<!-- footer start -->
+
+<footer class="footer">
+    <div class="container">
+      <p>&copy; 2024 Bucior. Wszelkie prawa zastrzeżone.</p>
+    </div>
+  </footer>
+  
+  <!-- footer ends -->
+
+<script src="./js/script.js"></script>
+</body>
+</html>

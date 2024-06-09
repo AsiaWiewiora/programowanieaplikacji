@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Bucior</title>
+</head>
+<body>
+  <header>
+    <div class="logo"><img src="./images/logo.png" alt="logo"></div>
+    <div class="hamburger">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+    </div>
+    <nav class="nav-bar">
+        <ul>
+            <li><a href="index.html">Główna</a><i></i></li>
+            <li><a href="news.html" class="active">Nowości</a><i></i></li>
+            <li><a href="contact.html" >Kontakt</a><i></i></li>
+        </ul>
+    </nav>
+  </header>
+
+  <div class="container">
+    <h1 class ="center-header-big new">Lista butów tego miesiąca</h1>
+    <div class="filters">
+      <button onclick="filterByMostPopular()">Najpopularniejsze</button>
+      <button onclick="filterByLeastPopular()">Najmniej popularne</button>
+      <button onclick="fetchAndRenderShoes()">Pokaż wszystkie</button>
+    </div>
+    <table id="shoes-table">
+      <thead>
+        <tr>
+          <th>Marka</th>
+          <th>Model</th>
+          <th>Cena</th>
+          <th>Opis</th>
+          <th>Popularność</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Tabela zostanie wypełniona przez JavaScript -->
+      </tbody>
+    </table>
+  </div>
+
+  <!-- footer start -->
+
+<footer class="footer">
+  <div class="container">
+    <p>&copy; 2024 Bucior. Wszelkie prawa zastrzeżone.</p>
+  </div>
+</footer>
+
+<!-- footer ends -->
+
+  <script src="./js/script.js"></script>
+</body>
+</html>
