@@ -1,0 +1,54 @@
+{
+  "shoes": [
+    { "brand": "Nike", "model": "Air Max 270", "price": 150, "description": "Klasyczny styl z nowoczesną technologią amortyzacji.", "popularity": 5 },
+    { "brand": "Adidas", "model": "Ultraboost", "price": 180, "description": "Bardzo responsywna amortyzacja dla wygodnego biegu.", "popularity": 4 },
+    { "brand": "New Balance", "model": "Fresh Foam 1080v11", "price": 160, "description": "Pluszowe i wspierające, idealne do długodystansowych biegów.", "popularity": 3 },
+    { "brand": "Puma", "model": "Suede Classic", "price": 100, "description": "Stylowe i wygodne na co dzień.", "popularity": 2 },
+    { "brand": "Reebok", "model": "Nano X", "price": 130, "description": "Wszechstronne buty treningowe.", "popularity": 4 },
+    { "brand": "Asics", "model": "Gel-Kayano 27", "price": 170, "description": "Stabilizacja i komfort na długie biegi.", "popularity": 3 },
+    { "brand": "Under Armour", "model": "HOVR Phantom", "price": 140, "description": "Nowoczesne buty biegowe z doskonałą amortyzacją.", "popularity": 4 },
+    { "brand": "Vans", "model": "Old Skool", "price": 90, "description": "Ikoniczny styl skate.", "popularity": 2 },
+    { "brand": "Converse", "model": "Chuck Taylor All Star", "price": 85, "description": "Klasyczne trampki na co dzień.", "popularity": 5 },
+    { "brand": "Jordan", "model": "Air Jordan 1", "price": 200, "description": "Kultowe buty koszykarskie.", "popularity": 5 },
+    { "brand": "Saucony", "model": "Kinvara 12", "price": 120, "description": "Lekkie buty biegowe.", "popularity": 3 },
+    { "brand": "Mizuno", "model": "Wave Rider 24", "price": 150, "description": "Doskonałe wsparcie i komfort.", "popularity": 4 },
+    { "brand": "Brooks", "model": "Ghost 13", "price": 130, "description": "Wygodne buty do biegania.", "popularity": 3 },
+    { "brand": "Hoka One One", "model": "Clifton 7", "price": 140, "description": "Lekka i amortyzowana konstrukcja.", "popularity": 4 },
+    { "brand": "Salomon", "model": "Speedcross 5", "price": 150, "description": "Agresywne buty trailowe.", "popularity": 2 },
+    { "brand": "Merrell", "model": "Moab 2", "price": 110, "description": "Trwałe buty turystyczne.", "popularity": 3 },
+    { "brand": "Fila", "model": "Disruptor II", "price": 95, "description": "Styl retro z wyraźnym designem.", "popularity": 2 },
+    { "brand": "Timberland", "model": "6-Inch Premium", "price": 190, "description": "Klasyczne buty robocze.", "popularity": 5 },
+    { "brand": "Skechers", "model": "D'Lites", "price": 80, "description": "Komfortowe buty sportowe na co dzień.", "popularity": 3 },
+    { "brand": "Columbia", "model": "Newton Ridge", "price": 110, "description": "Buty trekkingowe z dobrą trakcją.", "popularity": 3 },
+    { "brand": "The North Face", "model": "Ultra Fastpack IV", "price": 140, "description": "Lekkie buty na szlaki.", "popularity": 2 },
+    { "brand": "Lowa", "model": "Renegade GTX Mid", "price": 200, "description": "Wysokiej jakości buty turystyczne.", "popularity": 4 },
+    { "brand": "La Sportiva", "model": "Bushido II", "price": 130, "description": "Buty trailowe o wysokiej wydajności.", "popularity": 3 },
+    { "brand": "Scarpa", "model": "Mojito", "price": 120, "description": "Stylowe buty wspinaczkowe.", "popularity": 3 },
+    { "brand": "Arc'teryx", "model": "Norvan VT", "price": 150, "description": "Zaawansowane buty biegowe do trudnych terenów.", "popularity": 4 },
+    { "brand": "Altra", "model": "Lone Peak 5", "price": 130, "description": "Buty trailowe z szerokim palcami.", "popularity": 3 },
+    { "brand": "Topo Athletic", "model": "Ultraventure 2", "price": 140, "description": "Komfortowe i stabilne buty biegowe.", "popularity": 2 },
+    { "brand": "Inov-8", "model": "Roclite 275", "price": 150, "description": "Wszechstronne buty trailowe.", "popularity": 2 },
+    { "brand": "On", "model": "Cloudswift", "price": 170, "description": "Buty biegowe z unikalnym systemem amortyzacji.", "popularity": 3 },
+    { "brand": "Keen", "model": "Targhee III", "price": 140, "description": "Solidne buty trekkingowe.", "popularity": 2 },
+    { "brand": "Teva", "model": "Hurricane XLT2", "price": 70, "description": "Wszechstronne sandały sportowe.", "popularity": 4 },
+    { "brand": "Birkenstock", "model": "Arizona", "price": 100, "description": "Klasyczne sandały z korkową podeszwą.", "popularity": 5 },
+    { "brand": "Crocs", "model": "Classic Clog", "price": 45, "description": "Lekkie i wygodne klapki.", "popularity": 5 },
+    { "brand": "Dr. Martens", "model": "1460", "price": 150, "description": "Klasyczne buty z charakterystycznym żółtym szwem.", "popularity": 4 },
+    { "brand": "Clarks", "model": "Desert Boot", "price": 130, "description": "Stylowe buty z zamszu.", "popularity": 3 },
+    { "brand": "Toms", "model": "Classic Alpargata", "price": 60, "description": "Lekkie buty z płótna.", "popularity": 3 },
+    { "brand": "UGG", "model": "Classic Short II", "price": 160, "description": "Ciepłe i wygodne buty na zimę.", "popularity": 5 },
+    { "brand": "Sorel", "model": "Caribou", "price": 180, "description": "Solidne buty zimowe.", "popularity": 4 },
+    { "brand": "Hunter", "model": "Original Tall", "price": 150, "description": "Wysokie kalosze na deszcz.", "popularity": 3 },
+    { "brand": "Red Wing", "model": "Iron Ranger", "price": 320, "description": "Wysokiej jakości buty robocze.", "popularity": 3 },
+    { "brand": "Ariat", "model": "Heritage Roper", "price": 140, "description": "Klasyczne buty kowbojskie.", "popularity": 2 },
+    { "brand": "Blundstone", "model": "550", "price": 180, "description": "Trwałe buty z Chelsea.", "popularity": 3 },
+    { "brand": "Wolverine", "model": "1000 Mile", "price": 400, "description": "Luksusowe buty z wytrzymałej skóry.", "popularity": 3 },
+    { "brand": "Danner", "model": "Mountain Light", "price": 380, "description": "Buty turystyczne najwyższej jakości.", "popularity": 4 },
+    { "brand": "Oboz", "model": "Bridger Mid", "price": 180, "description": "Solidne buty trekkingowe.", "popularity": 3 }
+  ]
+  
+}
+
+
+
+  
